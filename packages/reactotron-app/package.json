@@ -17,7 +17,9 @@
     "package-all": "npm run package -- --all",
     "postinstall-old": "node node_modules/fbjs-scripts/node/check-dev-engines.js package.json",
     "start": "concurrently --kill-others \"npm run hot-server\" \"npm run start-hot\"",
-    "lint": "standard"
+    "lint": "standard",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "bin": {
     "electron": "./node_modules/.bin/electron"
@@ -94,7 +96,8 @@
     "reactotron-core-server": "^1.12.0",
     "socket.io": "^1.7.3",
     "source-map-support": "^0.4.14",
-    "stringify-object": "^3.0.0"
+    "stringify-object": "^3.0.0",
+    "snyk": "^1.88.0"
   },
   "devEngines": {
     "node": "6.x",
@@ -102,5 +105,6 @@
   },
   "standard": {
     "parser": "babel-eslint"
-  }
+  },
+  "snyk": true
 }
