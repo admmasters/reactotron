@@ -54,7 +54,7 @@
     "moment": "^2.15.0",
     "ramda": "^0.23.0",
     "ramdasauce": "^1.2.0",
-    "reactotron-core-server": "^1.7.0",
+    "reactotron-core-server": "^2.0.0",
     "strman": "^1.0.1"
   }
 }
