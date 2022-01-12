@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "apisauce": "^0.14.0",
-    "ramda": "^0.23.0",
+    "ramda": "^0.27.2",
     "ramdasauce": "^1.2.0",
     "reactotron-core-client": "^1.12.0"
   }
