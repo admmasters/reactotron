@@ -52,7 +52,7 @@
     "gemoji": "^2.0.1",
     "mobx": "^2.5.1",
     "moment": "^2.15.0",
-    "ramda": "^0.23.0",
+    "ramda": "^0.27.2",
     "ramdasauce": "^1.2.0",
     "reactotron-core-server": "^1.7.0",
     "strman": "^1.0.1"
