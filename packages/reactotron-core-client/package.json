@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "json-stringify-safe": "^5.0.1",
-    "ramda": "^0.24.1",
+    "ramda": "^0.27.2",
     "ramdasauce": "^2.0.0"
   }
 }
