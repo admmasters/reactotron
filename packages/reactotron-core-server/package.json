@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "mobx": "^2.5.1",
-    "ramda": "^0.24.1",
+    "ramda": "^0.27.2",
     "ramdasauce": "^2.0.0",
     "socket.io": "~1.7.3"
   }
