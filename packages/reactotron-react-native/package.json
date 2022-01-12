@@ -59,7 +59,7 @@
     "json-stringify-safe": "^5.0.1",
     "mitt": "^1.1.2",
     "prop-types": "^15.5.10",
-    "ramda": "^0.24.1",
+    "ramda": "^0.27.2",
     "ramdasauce": "^2.0.0",
     "reactotron-core-client": "^1.12.0",
     "rn-host-detect": "^1.1.3",
