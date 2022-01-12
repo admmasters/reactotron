@@ -12,7 +12,7 @@
     "apisauce": "^0.14.0",
     "es6-symbol": "^3.1.1",
     "mitt": "^1.1.2",
-    "ramda": "^0.24.1",
+    "ramda": "^0.27.2",
     "ramdasauce": "^2.0.0",
     "react": "16.0.0-alpha.12",
     "react-native": "^0.46.0",
