@@ -58,7 +58,7 @@
     "electron": "1.6.8",
     "electron-packager": "^8.5.1",
     "electron-rebuild": "^1.5.7",
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^1.0.1",
     "fbjs-scripts": "^0.7.1",
     "file-loader": "^0.11.1",
